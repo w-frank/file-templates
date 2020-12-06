@@ -4,6 +4,9 @@ ms-toolsai.jupyter
 ms-vscode.cmake-tools
 ms-vscode.cpptools
 nobuhito.printcode
+platformio.platformio-ide
 ritwickdey.LiveServer
+sterben.fpga-support
 twxs.cmake
 vsciot-vscode.vscode-arduino
+wavetrace.wavetrace
